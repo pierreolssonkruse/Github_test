@@ -3,3 +3,5 @@ This is a Git testing text file
 I'm editing this text file from github on the world wide web
 
 Just trying out stuff on a new branch
+
+Editing text file local on new branch
